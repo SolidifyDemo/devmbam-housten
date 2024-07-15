@@ -1,9 +1,9 @@
 ---
-layout: slide
+layout: slidegit
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+caption Azeddine
 
 ![skitchtocat](https://octodex.github.com/images/skitchtocat.png)
 {: .center}
